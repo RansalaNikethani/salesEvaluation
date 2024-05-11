@@ -1,0 +1,25 @@
+.btn-outline-light{
+    border:1px solid #550083;
+    color: #550083;
+}
+
+
+.btn-outline-light:hover {
+    background: linear-gradient(45deg in oklab, #2c0267,#550083 ,#9b5cb4);
+    color: #fff;
+}
+
+.text-purple{
+    font-weight: bold;
+    color:#550083 ;
+}
+
+.bg-gradient{
+    background: linear-gradient(45deg in oklab, #2c0267,#550083 ,#9b5cb4) !important;
+}
+
+
+.divheight{
+    height: 100% !important;
+}
+
